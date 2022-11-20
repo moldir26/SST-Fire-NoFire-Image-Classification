@@ -1,3 +1,3 @@
 # SST-Fire-NoFire-Image-Classification
 
-We have chosen Image Claasification Model - . We did not chose Object Detection model since it is a binary problem.
+We have chosen Image Classification Model - . We did not chose Object Detection Model since it is a binary problem that doesn't need the exact location of fire.
